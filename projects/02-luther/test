@@ -1,0 +1,2845 @@
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: produs--i-bde1bd2e <![endif]-->
+<!--[if !IE]> Cached on Mon, 30 Jan 2017 22:39:54 GMT and will expire on Mon, 30 Jan 2017 22:44:54 GMT <![endif]-->
+<!--[if !IE]> token: 3384a5fa-eb37-4a7e-a021-18a81e301f9a <![endif]-->
+<!--[if !IE]> App Server /produs--i-eee3bd7d/ <![endif]-->
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Apple Inc (AAPL.O)  Analysts | Reuters.com
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta charset="utf-8"/>
+  <meta content="on" http-equiv="x-dns-prefetch-control"/>
+  <link href="//s1.reutersmedia.net" rel="dns-prefetch"/>
+  <link href="//s2.reutersmedia.net" rel="dns-prefetch"/>
+  <link href="//s3.reutersmedia.net" rel="dns-prefetch"/>
+  <link href="//s4.reutersmedia.net" rel="dns-prefetch"/>
+  <link href="//static.reuters.com" rel="dns-prefetch"/>
+  <link href="//www.googletagservices.com" rel="dns-prefetch"/>
+  <link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+  <link href="//www.google-analytics.com" rel="dns-prefetch"/>
+  <link href="//static.chartbeat.com" rel="dns-prefetch"/>
+  <meta content="INDEX, FOLLOW" name="robots"/>
+  <!-- Page hiding snippet  -->
+  <style>
+   .async-hide { opacity: 0 !important}
+  </style>
+  <script>
+   (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-W9SLGS':true});
+  </script>
+  <!-- Data Layer Object Declaration -->
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  </script>
+  <!-- New Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+    {'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W9SLGS');
+  </script>
+  <!-- End Google Tag Manager -->
+  <meta content="SVDMcE-27ZUUuh-EcZzejAJ0YIFjxD9H_nwAX6YVTw4" name="google-site-verification"/>
+  <meta content="2055F771212E9574BFD5AF29D47FBA04" name="msvalidate.01"/>
+  <script type="text/javascript">
+   // Rubicon Initialize
+(function() {
+    var account_id = 11384;
+    var rct = document.createElement('script');
+        rct.type = 'text/javascript';
+        rct.async = true;
+        rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ads.rubiconproject.com/header/' + account_id + '.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.appendChild(rct);
+})();
+  </script>
+  <script src="//reuters-d.openx.net/w/1.0/jstag?nc=4735792-reuters" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div class="linebreak">
+  </div>
+  <style>
+   @font-face { font-family: 'knowledge-reg'; src: url('/resources_v2/fonts/Knowledge-Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-light'; src: url('/resources_v2/fonts/Knowledge-Light.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-medium'; src: url('/resources_v2/fonts/Knowledge-Medium.woff') format('woff'); font-weight: normal; font-style: normal; }
+  </style>
+  <script src="http://www.reuters.com/reuters_bootstrap.js" type="text/javascript">
+  </script>
+  <script src="http://www.reuters.com/reuters_gpt_bootstrap.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var abp;
+  </script>
+  <script src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=1" type="text/javascript">
+  </script>
+  <script src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=2" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var parallelMediaHosts = new Array();
+parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");
+  </script>
+  <meta content="Reuters" name="site edition"/>
+  <link href="http://www.reuters.com/finance/stocks/analyst?symbol=AAPL.O" rel="canonical"/>
+  <meta content="Reuters Editorial" name="Author"/>
+  <meta content="Connect to the most current information on stocks and bonds on Reuters.com.  Finance and investing news on NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com." name="description"/>
+  <meta content="NYSE,Nasdaq,S&amp;P,trading,US market,Asian market,Dow Jones,FTSE,DJIA,DAX,stocks,bonds,shares" name="keywords"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Connect to the most current information on stocks and bonds on Reuters.com.  Finance and investing news on NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com." name="twitter:description"/>
+  <meta content="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png" name="twitter:image:src"/>
+  <meta content="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png" name="twitter:image"/>
+  <meta content="@Reuters" name="twitter:site"/>
+  <meta content="@Reuters" name="twitter:creator"/>
+  <link href="https://plus.google.com/+Reuters" rel="publisher"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="Reuters" property="og:site_name"/>
+  <meta content="${Instrument_CompanyName} ${Instrument_Ric}  Analysts | Reuters.com" property="og:title"/>
+  <meta content="http://www.reuters.com/finance/stocks/analyst?symbol=AAPL.O" property="og:url"/>
+  <meta content="section" property="og:type"/>
+  <meta content="Connect to the most current information on stocks and bonds on Reuters.com.  Finance and investing news on NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com." property="og:description"/>
+  <meta content="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png" property="og:image"/>
+  <meta content="https://www.facebook.com/Reuters" property="article:publisher"/>
+  <script type="application/ld+json">
+   {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "headline": "${Instrument_CompanyName} ${Instrument_Ric}  Analysts | Reuters.com",
+        "url": "http://www.reuters.com/finance/stocks/analyst?symbol=AAPL.O", 
+        "thumbnailUrl": "",
+        "dateCreated": "",
+        "description": "Connect to the most current information on stocks and bonds on Reuters.com.  Finance and investing news on NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com.",
+        "publisher": "Reuters",
+        "creator": [],
+        "keywords": ["NYSE","Nasdaq","S&P","trading","US market","Asian market","Dow Jones","FTSE","DJIA","DAX","stocks","bonds","shares","Stocks"]
+    }
+  </script>
+  <meta content="Markets - Research &amp; Data" name="DCSext.rChannel"/>
+  <meta content="Stocks - Analysts" name="DCSext.ContentChannel"/>
+  <meta content="Markets" name="DCSext.ContentType"/>
+  <meta content="us.reuters/markets/stocks/quotes" name="DCSext.DartZone"/>
+  <meta content="Markets" name="WT.cg_n"/>
+  <meta content="Stocks" name="WT.cg_s"/>
+  <link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="http://s1.reutersmedia.net/resources_v2/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="http://s2.reutersmedia.net/resources_v2/css/core.css" rel="stylesheet" type="text/css"/>
+  <link href="http://s4.reutersmedia.net/resources_v2/css/core-legacy.css" rel="stylesheet" type="text/css"/>
+  <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.4.min.js" type="text/javascript">
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/libraries/cookie.js" type="text/javascript">
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/core.js" type="text/javascript">
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/search.js" type="text/javascript">
+  </script>
+  <link href="/resources_v2/css/rcom-companyOverview.css" rel="stylesheet"/>
+  <link href="/resources_v2/css/rcom-section.css" rel="stylesheet"/>
+  <script language="javascript" src="/resources_v2/js/rcom-section.js">
+  </script>
+  <script language="javascript" src="/resources_v2/js/rcom-company.js">
+  </script>
+  <script type="text/javascript">
+   var pageXrefresh = 720;
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/core-refresh.js" type="text/javascript">
+  </script>
+  <noscript>
+   <meta content="720;url=/home" http-equiv="refresh"/>
+  </noscript>
+  <script type="text/javascript">
+   var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 52639; 
+        _sf_async_config.domain = 'reuters.com';  
+        _sf_async_config.topStorageDomain = 'reuters.com'; 
+        _sf_async_config.path = document.querySelector("link[rel='canonical']").getAttribute("href").replace('http://www.', ''); 
+        _sf_async_config.flickerControl = false;
+        var _sf_startpt = (new Date()).getTime();
+  </script>
+  <script async="" src="//static.chartbeat.com/js/chartbeat_mab.js">
+  </script>
+  <!-- New Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <style>
+   .inter_bg{position:fixed; width:100%; height:100%; background:#000; opacity:0.8; top:0px; z-index:214748300; left:0px; display:none;}
+#div_gpt_intro, #div_gpt_intro2{position: fixed;z-index: 10000000000000000000;margin: 0px auto;left: 15%;right: 15%;top: 164px;text-align: center; width:640px;}
+.close_button{
+background: url(http://static.reuters.com/resources/media/rcom/nf0yL.png) no-repeat right;
+position: absolute;
+top: -20px;
+right: -20px;
+height: 20px;
+width: 100px;
+display: none;
+cursor: pointer;
+color:#fff;
+font-size: 1.6em;
+font-weight: bold;
+}
+  </style>
+  <div class="inter_bg">
+  </div>
+  <div class="close_button" onclick="javascript:$('.inter_bg').hide();$('#div_gpt_intro').hide();$('#div_gpt_intro2').hide();">
+  </div>
+  <div id="div_gpt_intro2" style="display:none;">
+  </div>
+  <script>
+   if (TR3.extractDartZone().indexOf("jp.reuters") > -1)
+{
+ $('.close_button').html("閉じる");
+}
+
+
+// determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+   //createCookie('r_inter','true',1);
+   //inter_pop();
+   //setTimeout(function(){close_pop();}, 10000);
+   displayAd("div_gpt_intro2",TR3.extractDartZone(), [640,480], "type=intro_gpt;" + adParams2 );
+}
+
+function inter_pop() {
+    $('.inter_bg').show();
+    $('.close_button').show();
+    $( "#div_gpt_intro2" ).append( $(".close_button" ) );
+}
+
+function close_pop(){
+    $('.inter_bg').fadeOut();
+   $('.close_button').fadeOut();
+   $( '#div_gpt_intro2').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+  </script>
+  <div id="div_gpt_intro" style="display:none;">
+  </div>
+  <script>
+   // determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+  
+   setTimeout(function(){close_pop2();}, 15000);
+   displayAd("div_gpt_intro",TR3.extractDartZone(), '', "type=intro_gpt;" + adParams2 );
+    //createCookie('r_inter','true',1);
+}
+
+function close_pop2(){
+   $( '#div_gpt_intro').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+  </script>
+  <section class="hidden" id="breakingNewsContainer">
+   <div class="group wrap" id="breakingNews">
+    <div class="breaking-content">
+     <div class="breaking-news-type">
+     </div>
+     <div class="breaking-news-content">
+     </div>
+    </div>
+    <div class="close-btn">
+     X
+    </div>
+   </div>
+  </section>
+  <header id="headerMain">
+   <div class="container group">
+    <div class="edition-container group">
+     <div class="edition-label">
+      Edition:
+     </div>
+     <div class="edition-selector">
+      <div class="edition">
+       United States
+      </div>
+      <div class="edition-arrow">
+      </div>
+     </div>
+    </div>
+    <div class="reuters-nav-main">
+     <h2 class="reuters-logo">
+      <a href="/" title="Reuters">
+      </a>
+     </h2>
+    </div>
+    <div class="utilities" id="utilities">
+    </div>
+   </div>
+  </header>
+  <nav id="headerNav">
+   <div class="container group">
+    <div class="header-mini-logo">
+     <a href="/" title="Reuters">
+     </a>
+    </div>
+    <ul class="horizontal-list nav-list">
+     <li class="nav-item home-tab active-icon no-subnav" id="nav-item-1">
+      <a class="nav-link-sec" href="/home">
+       <div class="home-icon">
+       </div>
+       <span class="text">
+       </span>
+      </a>
+     </li>
+     <li class="nav-item" id="nav-item-2">
+      <a class="nav-link-sec" href="/finance">
+       Business
+      </a>
+      <div class="subnav" id="subnav-2">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance">
+           Business Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/legal">
+           Legal
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/deals">
+           Deals
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/subjects/aerospace-and-defense">
+           Aerospace &amp; Defense
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/subjects/banks">
+           Finance
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/subjects/autos">
+           Autos
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/summits">
+           Reuters Summits
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/subjects/ADventures">
+           ADventures
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/data-dive">
+           Data Dive
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-3">
+      <a class="nav-link-sec" href="/finance/markets">
+       Markets
+      </a>
+      <div class="subnav" id="subnav-3">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets">
+           Markets Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets/us">
+           U.S. Markets
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets/europe">
+           European Markets
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets/asia">
+           Asian Markets
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance/global-market-data">
+           Global Market Data
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets/indices">
+           Indices
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/stocks">
+           Stocks
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/bonds">
+           Bonds
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance/currencies">
+           Currencies
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/commodities">
+           Commodities
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/futures">
+           Futures
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/funds">
+           Funds
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance/EarningsUS">
+           Earnings
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/markets/dividends">
+           Dividends
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-4">
+      <a class="nav-link-sec" href="/news/world">
+       World
+      </a>
+      <div class="subnav" id="subnav-4">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/world">
+           World Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/us">
+           U.S.
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/subjects/specialReports">
+           Special Reports
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://www.reuters.com/investigates/">
+           Reuters Investigates
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/subjects/euro-zone">
+           Euro Zone
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/subjects/middle-east">
+           Middle East
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/places/china">
+           China
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/places/japan">
+           Japan
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/places/mexico">
+           Mexico
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/places/brazil">
+           Brazil
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/places/africa">
+           Africa
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/places/russia">
+           Russia
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/places/india">
+           India
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-5">
+      <a class="nav-link-sec" href="/politics">
+       Politics
+      </a>
+      <div class="subnav" id="subnav-5">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/politics">
+           Politics Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://polling.reuters.com">
+           Polling Explorer
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://live.reuters.com/Event/Election_2016">
+           Just In: Election 2016
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://www.reuters.com/election2016/the-undecided/">
+           What Voters Want
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/subjects/supreme-court">
+           Supreme Court
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-6">
+      <a class="nav-link-sec" href="/news/technology">
+       Tech
+      </a>
+      <div class="subnav" id="subnav-6">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/technology">
+           Technology Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/science">
+           Science
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/bizfinance/technology/Top100Innovators">
+           Top 100 Global Innovators
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/media">
+           Media
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/environment">
+           Environment
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/innovation">
+           Innovation
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-7">
+      <a class="nav-link-sec" href="/commentary">
+       Commentary
+      </a>
+      <div class="subnav" id="subnav-7">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/commentary">
+           Commentary Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/tools/podcasts/">
+           Podcasts
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-8">
+      <a class="nav-link-sec" href="/breakingviews">
+       Breakingviews
+      </a>
+      <div class="subnav" id="subnav-8">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/breakingviews">
+           Breakingviews Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/video/breakingviews">
+           Breakingviews Video
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-9">
+      <a class="nav-link-sec" href="/finance/personal-finance">
+       Money
+      </a>
+      <div class="subnav" id="subnav-9">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/finance/personal-finance">
+           Money Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/personal-finance/retirement">
+           Retirement
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/subjects/us-lipper-awards">
+           Lipper Awards
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/finance/personal-finance/analyst-research">
+           Analyst Research
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">
+           Stock Screener
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://funds.us.reuters.com/US/screener/screener.asp">
+           Fund Screener
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item" id="nav-item-10">
+      <a class="nav-link-sec" href="/news/lifestyle">
+       Life
+      </a>
+      <div class="subnav" id="subnav-10">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/health">
+           Health
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/sports">
+           Sports
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/entertainment/arts">
+           Arts
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/news/entertainment">
+           Entertainment
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/oddlyEnough">
+           Oddly Enough
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item pictures-tab active-icon active-text " id="nav-item-11">
+      <a class="nav-link-sec" href="/news/pictures">
+       <div class="pictures-icon">
+       </div>
+       <span class="text">
+        Pictures
+       </span>
+      </a>
+      <div class="subnav" id="subnav-11">
+       <div class="subnav-inset">
+        <ul class="subnav-list">
+         <li>
+          <a class="nav-link-subsec" href="/news/pictures">
+           Pictures Home
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://widerimage.reuters.com">
+           The Wider Image
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="http://widerimage.reuters.com/photographer">
+           Photographers
+          </a>
+         </li>
+         <li>
+          <a class="nav-link-subsec" href="/focus-360/">
+           Focus 360
+          </a>
+         </li>
+        </ul>
+        <ul class="subnav-list">
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="nav-item video-tab active-icon active-text no-subnav" id="nav-item-12">
+      <a class="nav-link-sec" href="/video">
+       <div class="video-icon">
+       </div>
+       <span class="text">
+        Video
+       </span>
+      </a>
+     </li>
+     <li class="nav-item search-tab active-icon no-subnav">
+      <div class="search-icon">
+      </div>
+     </li>
+    </ul>
+    <div id="searchBar">
+     <form action="/search/news" autocomplete="off" class="search-form" id="searchForm" method="get" name="searchbox">
+      <input class="search-field" id="searchfield" maxlength="128" name="blob" onfocus="this.value = this.value;" size="30" type="text" value=""/>
+      <span class="search-line">
+      </span>
+      <input class="search-submit-button" id="search-submit-button" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }" type="submit" value=""/>
+      <div class="search-close-button">
+      </div>
+     </form>
+    </div>
+   </div>
+  </nav>
+  <div class="nav-white-space">
+  </div>
+  <div class="edition-header">
+   <div class="container">
+    <div class="selection-header">
+    </div>
+    <ul class="edition-list">
+     <li>
+      <div class="item">
+       <a href="http://af.reuters.com">
+        Africa
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://lta.reuters.com">
+        América Latina
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a href="http://ara.reuters.com">
+        عربي
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://ar.reuters.com">
+        Argentina
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a href="http://br.reuters.com">
+        Brasil
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://ca.reuters.com">
+        Canada
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a class="" href="http://cn.reuters.com">
+        中国
+       </a>
+      </div>
+      <div class="item">
+       <a class="" href="http://de.reuters.com">
+        Deutschland
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a href="http://es.reuters.com">
+        España
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://fr.reuters.com">
+        France
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a class="" href="http://in.reuters.com">
+        India
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://it.reuters.com">
+        Italia
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a class="" href="http://jp.reuters.com">
+        日本
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://mx.reuters.com">
+        México
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a href="http://ru.reuters.com">
+        РОССИЯ
+       </a>
+      </div>
+      <div class="item">
+       <a class="" href="http://uk.reuters.com">
+        United Kingdom
+       </a>
+      </div>
+     </li>
+     <li>
+      <div class="item">
+       <a class="active" href="http://www.reuters.com">
+        United States
+       </a>
+      </div>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div id="content">
+   <div id="overlayForSearch">
+   </div>
+   <div class="section bleeding" id="bannerStrip">
+    <div class="sectionContent">
+     <div class="sectionColumns">
+      <div class="gridPanel grid12">
+       <div id="div_gpt_lb">
+        <script>
+         gatherAd('div_gpt_lb', [[728, 90],[970,250],[970,90],[1,1]], TR3.extractDartZone(), 'yes', 'leaderboard');
+        </script>
+       </div>
+       <style>
+        #div_gpt_lb{display: inline-block;
+position: relative;
+text-align: center;
+width: 976px;}
+
+#div_gpt_mpu, #div_gpt_home_rr1, #div_gpt_rr2, #div_gpt_article_sp3, #div_gpt_mpulow, #div_gpt_bd2{margin-bottom:20px;}
+.mpu .ad {clear:left;}
+.column2 .ad{margin-bottom: 0px !important;}
+.pageSponsor{width: 270px !important;}
+#div_gpt_mpu{float: left;}
+       </style>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="section">
+    <div class="sectionContent">
+     <div id="sectionHeader">
+      <style type="text/css">
+       .quoteBox div div.value {font-size:16px;}
+      </style>
+      <div id="sectionTitle">
+       <h1>
+        Apple Inc (AAPL.O)
+       </h1>
+      </div>
+      <script language="javascript">
+       if (Reuters.tns) {
+    Reuters.tns.currentCompany = 'AAPL.O';
+}
+      </script>
+      <style>
+       #div_gpt_tradelogo{
+float: right;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+   z-index:99999;
+}
+      </style>
+      <div class="linebreak">
+      </div>
+      <div id="div_gpt_tradelogo">
+       <div class="ad" id="tradelogo">
+        <script type="text/javascript">
+         var dz_final = TR3.extractDartZone();
+// leaderboard
+if( 'tradelogo' == 'leaderboard'){
+    //US/UK HOME FASTLANE
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)){
+        if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        {displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );}
+        else{ displayAd_sync_fastlane( dz_final, "" + adParams2 + "" ); }
+    }
+    else{ 
+		if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        { displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "");}
+        else{ displayAd_sync( dz_final, "" + adParams2 + "" ); }
+    }
+}
+else if('tradelogo' == 'mpu'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); }); }
+else if('tradelogo' == 'mpu2'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu2'); }); }
+else if('tradelogo' == 'mpulow'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); }); }
+else if('tradelogo' == 'leaderboardcenter'){
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1)|| (TR3.extractDartZone().indexOf("jp.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); }); }
+    else{ displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" ); }
+}
+else if('tradelogo' == 'leaderboardlow'){
+        if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); }); }
+        else{ displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" ); }
+}
+else{
+    if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+        displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+    } else{ displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" ); }	
+}
+        </script>
+       </div>
+      </div>
+      <div class="linebreak">
+      </div>
+      <div id="sectionHeaderTopics">
+       <div id="headerTopics">
+        <div class="sectionRelatedTopics">
+         <ul>
+          <h3>
+           Related Topics:
+          </h3>
+          <li>
+           <a href="/finance/stocks">
+            Stocks
+           </a>
+          </li>
+          <li>
+           <a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">
+            Stock Screener
+           </a>
+          </li>
+          <li>
+           <a href="/finance/global-market-data">
+            Market Data
+           </a>
+          </li>
+          <li>
+           <a href="/sectors/technology">
+            Technology
+           </a>
+          </li>
+          <li>
+           <a href="/sectors/industries/overview?industryCode=169">
+            Computer Hardware
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div style="clear: both">
+       <div id="div_gpt_investingchannel">
+        <div class="ad" id="investingchannel">
+         <script type="text/javascript">
+          var dz_final = TR3.extractDartZone();
+// leaderboard
+if( 'investingchannel' == 'leaderboard'){
+    //US/UK HOME FASTLANE
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)){
+        if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        {displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );}
+        else{ displayAd_sync_fastlane( dz_final, "" + adParams2 + "" ); }
+    }
+    else{ 
+		if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        { displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "");}
+        else{ displayAd_sync( dz_final, "" + adParams2 + "" ); }
+    }
+}
+else if('investingchannel' == 'mpu'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); }); }
+else if('investingchannel' == 'mpu2'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu2'); }); }
+else if('investingchannel' == 'mpulow'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); }); }
+else if('investingchannel' == 'leaderboardcenter'){
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1)|| (TR3.extractDartZone().indexOf("jp.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); }); }
+    else{ displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" ); }
+}
+else if('investingchannel' == 'leaderboardlow'){
+        if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); }); }
+        else{ displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" ); }
+}
+else{
+    if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+        displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+    } else{ displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" ); }	
+}
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="linebreak">
+      </div>
+      <div id="companyOverviewTabSection">
+       <div id="companyOverviewTabs">
+        <ul>
+         <li>
+          <a href="/finance/stocks/overview?symbol=AAPL.O">
+           Overview
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/companyNews?symbol=AAPL.O">
+           News
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/AAPL.O/key-developments">
+           Key Developments
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/companyOfficers?symbol=AAPL.O">
+           People
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/chart?symbol=AAPL.O">
+           Charts
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/financialHighlights?symbol=AAPL.O">
+           Financials
+          </a>
+         </li>
+         <li class="current">
+          <a href="/finance/stocks/analyst?symbol=AAPL.O">
+           Analysts
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/analystResearch?symbol=AAPL.O">
+           Research
+          </a>
+         </li>
+         <li>
+          <a href="/finance/stocks/social-pulse?symbol=AAPL.O">
+           Pulse
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="module">
+       <div class="moduleBody">
+        <div id="headerQuoteContainer">
+         <div class="sectionQuote nasdaqChange">
+          <div class="sectionQuoteDetail">
+           <span class="nasdaqChangeHeader">
+            AAPL.O on Nasdaq
+           </span>
+           <br class="clear"/>
+           <br class="clear"/>
+           <span style="font-size: 23px;">
+            121.63
+           </span>
+           <span>
+            USD
+           </span>
+           <br/>
+           <span class="nasdaqChangeTime">
+            30 Jan 2017
+           </span>
+          </div>
+         </div>
+         <div class="sectionQuote priceChange">
+          <div class="sectionQuoteDetail">
+           <span class="priceDetail">
+            Change	(% chg)
+           </span>
+           <br class="clear"/>
+           <br class="clear"/>
+           <span class="valueContent">
+            <span class="neg">
+             $-0.32
+            </span>
+            <span class="valueContentPercent">
+             <span class="neg">
+              (-0.26%)
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="sectionQuote">
+          <div class="sectionQuoteDetailTop">
+           <span>
+            Prev Close
+           </span>
+           <br class="clear"/>
+           <span>
+            $121.95
+           </span>
+          </div>
+          <div class="sectionQuoteDetail">
+           <span>
+            Open
+           </span>
+           <br class="clear"/>
+           <span>
+            $120.93
+           </span>
+          </div>
+         </div>
+         <div class="sectionQuote">
+          <div class="sectionQuoteDetailTop">
+           <span>
+            Day's High
+           </span>
+           <br class="clear"/>
+           <span class="sectionQuoteDetailHigh">
+            $121.63
+           </span>
+          </div>
+          <div class="sectionQuoteDetail">
+           <span>
+            Day's Low
+           </span>
+           <br class="clear"/>
+           <span class="sectionQuoteDetailLow">
+            $120.66
+           </span>
+          </div>
+         </div>
+         <div class="sectionQuote">
+          <div class="sectionQuoteDetailTop">
+           <span>
+            Volume
+           </span>
+           <br class="clear"/>
+           <span>
+            30,327,760
+           </span>
+          </div>
+          <div class="sectionQuoteDetail">
+           <span>
+            Avg. Vol
+           </span>
+           <br class="clear"/>
+           <span>
+            31,238,335
+           </span>
+          </div>
+         </div>
+         <div class="sectionQuote">
+          <div class="sectionQuoteDetailTop">
+           <span>
+            52-wk High
+           </span>
+           <br class="clear"/>
+           <span class="sectionQuoteDetailHigh">
+            $122.44
+           </span>
+          </div>
+          <div class="sectionQuoteDetail">
+           <span>
+            52-wk Low
+           </span>
+           <br class="clear"/>
+           <span class="sectionQuoteDetailLow">
+            $89.47
+           </span>
+          </div>
+         </div>
+         <br class="clear"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="sectionColumns">
+      <div class="column1 gridPanel grid8">
+       <a name="consensus">
+       </a>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Consensus Recommendations
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+          <tbody>
+           <tr class="mdTableHeader">
+            <th>
+             Consensus Recommendation
+            </th>
+            <th>
+             Next Earnings (approx.)
+            </th>
+            <th>
+             Company Fiscal Year
+             <br/>
+             End Month
+            </th>
+            <th>
+             Last Updated
+            </th>
+           </tr>
+           <tr class="stripe">
+            <td>
+             Outperform
+            </td>
+            <td>
+             3.58
+            </td>
+            <td>
+             September
+            </td>
+            <td>
+             30 Jan 2017
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Analyst Recommendations and Revisions
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <table cellpadding="1" cellspacing="1" class="dataTable" width="100%">
+          <tbody>
+           <tr class="mdTableHeader dataBold">
+            <th>
+             1-5 Linear Scale
+            </th>
+            <th class="data">
+             Current
+            </th>
+            <th class="data">
+             1 Month
+             <br/>
+             Ago
+            </th>
+            <th class="data">
+             2 Month
+             <br/>
+             Ago
+            </th>
+            <th class="data">
+             3 Month
+             <br/>
+             Ago
+            </th>
+           </tr>
+           <tr>
+            <td>
+             (1) BUY
+            </td>
+            <td class="data dataBold">
+             17
+            </td>
+            <td class="data">
+             16
+            </td>
+            <td class="data">
+             16
+            </td>
+            <td class="data">
+             16
+            </td>
+           </tr>
+           <tr class="stripe">
+            <td>
+             (2) OUTPERFORM
+            </td>
+            <td class="data dataBold">
+             23
+            </td>
+            <td class="data">
+             24
+            </td>
+            <td class="data">
+             23
+            </td>
+            <td class="data">
+             24
+            </td>
+           </tr>
+           <tr>
+            <td>
+             (3) HOLD
+            </td>
+            <td class="data dataBold">
+             8
+            </td>
+            <td class="data">
+             7
+            </td>
+            <td class="data">
+             6
+            </td>
+            <td class="data">
+             6
+            </td>
+           </tr>
+           <tr class="stripe">
+            <td>
+             (4) UNDERPERFORM
+            </td>
+            <td class="data dataBold">
+             0
+            </td>
+            <td class="data">
+             0
+            </td>
+            <td class="data">
+             1
+            </td>
+            <td class="data">
+             1
+            </td>
+           </tr>
+           <tr>
+            <td>
+             (5) SELL
+            </td>
+            <td class="data dataBold">
+             1
+            </td>
+            <td class="data">
+             1
+            </td>
+            <td class="data">
+             1
+            </td>
+            <td class="data">
+             1
+            </td>
+           </tr>
+           <tr class="stripe">
+            <td>
+             No Opinion
+            </td>
+            <td class="data dataBold">
+             0
+            </td>
+            <td class="data">
+             0
+            </td>
+            <td class="data">
+             0
+            </td>
+            <td class="data">
+             0
+            </td>
+           </tr>
+           <tr class="dataTableDivider">
+            <td colspan="5">
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Mean Rating
+            </td>
+            <td class="data dataBold">
+             1.88
+            </td>
+            <td class="data">
+             1.88
+            </td>
+            <td class="data">
+             1.89
+            </td>
+            <td class="data">
+             1.90
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <a name="consensus">
+       </a>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Consensus Estimates Analysis
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <div class="moduleBody">
+          <div class="mdInfoHeader">
+           Sales and Profit Figures in US Dollar (USD)
+           <br/>
+           Earnings and Dividend Figures in US Dollar (USD)
+          </div>
+          <table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+           <tbody>
+            <tr class="mdTableHeader dataBold">
+             <th>
+             </th>
+             <th class="data">
+              # of Estimates
+             </th>
+             <th class="data">
+              Mean
+             </th>
+             <th class="data">
+              High
+             </th>
+             <th class="data">
+              Low
+             </th>
+             <th class="data">
+              1 Year
+              <br/>
+              Ago
+             </th>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="6">
+              SALES (in millions)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="data">
+              21
+             </td>
+             <td class="data">
+              81,597.50
+             </td>
+             <td class="data">
+              92,976.00
+             </td>
+             <td class="data">
+              75,068.00
+             </td>
+             <td class="data">
+              81,650.10
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="data">
+              35
+             </td>
+             <td class="data">
+              53,942.60
+             </td>
+             <td class="data">
+              58,210.00
+             </td>
+             <td class="data">
+              50,708.00
+             </td>
+             <td class="data">
+              57,807.70
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="data">
+              43
+             </td>
+             <td class="data">
+              227,530.00
+             </td>
+             <td class="data">
+              242,799.00
+             </td>
+             <td class="data">
+              217,807.00
+             </td>
+             <td class="data">
+              242,422.00
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="data">
+              40
+             </td>
+             <td class="data">
+              243,456.00
+             </td>
+             <td class="data">
+              277,067.00
+             </td>
+             <td class="data">
+              226,300.00
+             </td>
+             <td class="data">
+              252,134.00
+             </td>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="6">
+              Earnings (per share)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="data">
+              25
+             </td>
+             <td class="data">
+              3.58
+             </td>
+             <td class="data">
+              4.23
+             </td>
+             <td class="data">
+              3.28
+             </td>
+             <td class="data">
+              3.71
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="data">
+              37
+             </td>
+             <td class="data">
+              2.09
+             </td>
+             <td class="data">
+              2.31
+             </td>
+             <td class="data">
+              1.94
+             </td>
+             <td class="data">
+              2.36
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="data">
+              45
+             </td>
+             <td class="data">
+              8.92
+             </td>
+             <td class="data">
+              10.01
+             </td>
+             <td class="data">
+              8.05
+             </td>
+             <td class="data">
+              10.07
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="data">
+              42
+             </td>
+             <td class="data">
+              10.09
+             </td>
+             <td class="data">
+              11.78
+             </td>
+             <td class="data">
+              8.24
+             </td>
+             <td class="data">
+              11.02
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              LT Growth Rate (%)
+             </td>
+             <td class="data">
+              2
+             </td>
+             <td class="data">
+              13.80
+             </td>
+             <td class="data">
+              14.60
+             </td>
+             <td class="data">
+              13.00
+             </td>
+             <td class="data">
+              11.95
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Historical Surprises
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <div class="moduleBody">
+          <div class="mdInfoHeader">
+           Sales and Profit Figures in US Dollar (USD)
+           <br/>
+           Earnings and Dividend Figures in US Dollar (USD)
+          </div>
+          <table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+           <tbody class="dataSmall">
+            <tr class="mdTableHeader dataBold">
+             <th class="left">
+              Estimates vs Actual
+             </th>
+             <th class="data">
+              Estimate
+             </th>
+             <th class="data">
+              Actual
+             </th>
+             <th class="data">
+              Difference
+             </th>
+             <th class="data">
+              Surprise %
+             </th>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="5">
+              SALES (in millions)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Sep-16
+             </td>
+             <td class="data">
+              46,938.10
+             </td>
+             <td class="data">
+              46,852.00
+             </td>
+             <td class="data">
+              86.06
+             </td>
+             <td class="data">
+              0.18
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Jun-16
+             </td>
+             <td class="data">
+              42,087.10
+             </td>
+             <td class="data">
+              42,358.00
+             </td>
+             <td class="data">
+              270.88
+             </td>
+             <td class="data">
+              0.64
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Mar-16
+             </td>
+             <td class="data">
+              51,971.60
+             </td>
+             <td class="data">
+              50,557.00
+             </td>
+             <td class="data">
+              1,414.55
+             </td>
+             <td class="data">
+              2.72
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Dec-15
+             </td>
+             <td class="data">
+              76,544.10
+             </td>
+             <td class="data">
+              75,872.00
+             </td>
+             <td class="data">
+              672.05
+             </td>
+             <td class="data">
+              0.88
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Sep-15
+             </td>
+             <td class="data">
+              51,113.70
+             </td>
+             <td class="data">
+              51,501.00
+             </td>
+             <td class="data">
+              387.28
+             </td>
+             <td class="data">
+              0.76
+             </td>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="5">
+              Earnings (per share)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Sep-16
+             </td>
+             <td class="data">
+              1.66
+             </td>
+             <td class="data">
+              1.67
+             </td>
+             <td class="data">
+              0.01
+             </td>
+             <td class="data">
+              0.72
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Jun-16
+             </td>
+             <td class="data">
+              1.38
+             </td>
+             <td class="data">
+              1.42
+             </td>
+             <td class="data">
+              0.04
+             </td>
+             <td class="data">
+              2.60
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Mar-16
+             </td>
+             <td class="data">
+              2.00
+             </td>
+             <td class="data">
+              1.90
+             </td>
+             <td class="data">
+              0.10
+             </td>
+             <td class="data">
+              4.89
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Dec-15
+             </td>
+             <td class="data">
+              3.23
+             </td>
+             <td class="data">
+              3.28
+             </td>
+             <td class="data">
+              0.05
+             </td>
+             <td class="data">
+              1.63
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Sep-15
+             </td>
+             <td class="data">
+              1.88
+             </td>
+             <td class="data">
+              1.96
+             </td>
+             <td class="data">
+              0.08
+             </td>
+             <td class="data">
+              4.26
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Consensus Estimates Trend
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <div class="moduleBody">
+          <div class="mdInfoHeader">
+           Sales and Profit Figures in US Dollar (USD)
+           <br/>
+           Earnings and Dividend Figures in US Dollar (USD)
+          </div>
+          <table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+           <tbody>
+            <tr class="mdTableHeader dataBold">
+             <th>
+             </th>
+             <th class="data">
+              Current
+             </th>
+             <th class="data">
+              1 Week
+              <br/>
+              Ago
+             </th>
+             <th class="data">
+              1 Month
+              <br/>
+              Ago
+             </th>
+             <th class="data">
+              2 Month
+              <br/>
+              Ago
+             </th>
+             <th class="data">
+              1 Year
+              <br/>
+              Ago
+             </th>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="6">
+              SALES (in millions)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="data">
+              81,597.50
+             </td>
+             <td class="data">
+              81,367.50
+             </td>
+             <td class="data">
+              80,880.50
+             </td>
+             <td class="data">
+              80,773.20
+             </td>
+             <td class="data">
+              81,650.10
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="data">
+              53,942.60
+             </td>
+             <td class="data">
+              54,177.20
+             </td>
+             <td class="data">
+              54,709.50
+             </td>
+             <td class="data">
+              54,944.50
+             </td>
+             <td class="data">
+              57,807.70
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="data">
+              227,530.00
+             </td>
+             <td class="data">
+              227,765.00
+             </td>
+             <td class="data">
+              229,079.00
+             </td>
+             <td class="data">
+              229,725.00
+             </td>
+             <td class="data">
+              242,422.00
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="data">
+              243,456.00
+             </td>
+             <td class="data">
+              243,918.00
+             </td>
+             <td class="data">
+              243,021.00
+             </td>
+             <td class="data">
+              243,171.00
+             </td>
+             <td class="data">
+              252,134.00
+             </td>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="6">
+              Earnings (per share)
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="data">
+              3.58
+             </td>
+             <td class="data">
+              3.56
+             </td>
+             <td class="data">
+              3.55
+             </td>
+             <td class="data">
+              3.57
+             </td>
+             <td class="data">
+              3.71
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="data">
+              2.09
+             </td>
+             <td class="data">
+              2.11
+             </td>
+             <td class="data">
+              2.14
+             </td>
+             <td class="data">
+              2.15
+             </td>
+             <td class="data">
+              2.36
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="data">
+              8.92
+             </td>
+             <td class="data">
+              8.95
+             </td>
+             <td class="data">
+              9.01
+             </td>
+             <td class="data">
+              9.04
+             </td>
+             <td class="data">
+              10.07
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="data">
+              10.09
+             </td>
+             <td class="data">
+              10.12
+             </td>
+             <td class="data">
+              10.08
+             </td>
+             <td class="data">
+              10.08
+             </td>
+             <td class="data">
+              11.02
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          Estimates Revisions Summary
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <div class="moduleBody">
+          <table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+           <tbody>
+            <tr class="mdTableHeader dataBold">
+             <th>
+             </th>
+             <th colspan="2">
+              Last Week
+             </th>
+             <th colspan="2">
+              Last 4 Weeks
+             </th>
+            </tr>
+            <tr class="mdTableHeader dataBold">
+             <th class="left blu">
+              Number Of Revisions:
+             </th>
+             <th class="blu">
+              Up
+             </th>
+             <th class="blu">
+              Down
+             </th>
+             <th class="blu">
+              Up
+             </th>
+             <th class="blu">
+              Down
+             </th>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="5">
+              Revenue
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="center">
+              3
+             </td>
+             <td class="center">
+              1
+             </td>
+             <td class="center">
+              4
+             </td>
+             <td class="center">
+              3
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="center">
+              1
+             </td>
+             <td class="center">
+              7
+             </td>
+             <td class="center">
+              1
+             </td>
+             <td class="center">
+              14
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="center">
+              3
+             </td>
+             <td class="center">
+              5
+             </td>
+             <td class="center">
+              3
+             </td>
+             <td class="center">
+              15
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="center">
+              6
+             </td>
+             <td class="center">
+              2
+             </td>
+             <td class="center">
+              11
+             </td>
+             <td class="center">
+              4
+             </td>
+            </tr>
+            <tr>
+             <td class="dataTitle" colspan="5">
+              Earnings
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Quarter Ending Dec-17
+             </td>
+             <td class="center">
+              4
+             </td>
+             <td class="center">
+              2
+             </td>
+             <td class="center">
+              7
+             </td>
+             <td class="center">
+              2
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Quarter Ending Mar-17
+             </td>
+             <td class="center">
+              1
+             </td>
+             <td class="center">
+              8
+             </td>
+             <td class="center">
+              2
+             </td>
+             <td class="center">
+              15
+             </td>
+            </tr>
+            <tr class="stripe">
+             <td>
+              Year Ending Sep-17
+             </td>
+             <td class="center">
+              2
+             </td>
+             <td class="center">
+              6
+             </td>
+             <td class="center">
+              3
+             </td>
+             <td class="center">
+              14
+             </td>
+            </tr>
+            <tr class="">
+             <td>
+              Year Ending Sep-18
+             </td>
+             <td class="center">
+              4
+             </td>
+             <td class="center">
+              3
+             </td>
+             <td class="center">
+              9
+             </td>
+             <td class="center">
+              5
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <header class="module-header" style="border-bottom: 4px solid #ccc;margin-top:10px;">
+         <h2 class="module-heading" style="margin: 0;font-size:21px;">
+          <span class="title-last">
+           More From Around the Web
+          </span>
+         </h2>
+        </header>
+        <div id="rcjsload_332abc">
+        </div>
+        <script type="text/javascript">
+         (function() {
+var widgetIds = [58141, 58127, 56917];
+var widget_id = widgetIds[Math.floor(Math.random()*widgetIds.length)];
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_332abc"); rcds.appendChild(rcel);
+  
+})();
+        </script>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="linebreak">
+       </div>
+      </div>
+      <div class="column2 gridPanel grid4">
+       <div id="div_gpt_mpu">
+        <script>
+         gatherAd('div_gpt_mpu', [[300, 250],[300,600],[300,1050]], TR3.extractDartZone(), 'yes', 'mpu');
+        </script>
+       </div>
+       <div class="linebreak">
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          <a href="/finance/stocks/financialHighlights?symbol=AAPL.O">
+           <img border="0" src="/resources_v2/images/btn_analystRecommendations.gif"/>
+           Earnings vs.
+           <img border="0" src="/resources_v2/images/btn_estimates.gif"/>
+           Estimates
+          </a>
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <script type="text/javascript">
+          Reuters.namespace("company");
+
+		
+Reuters.company.pastEstimates = [
+			
+				
+	{ "label": "Q4&nbsp;16", "high": 1.73, "low": 1.59, "actual": 1.67 },
+				
+	{ "label": "Q3&nbsp;16", "high": 1.47, "low": 1.23, "actual": 1.42 },
+				
+	{ "label": "Q2&nbsp;16", "high": 2.17, "low": 1.88, "actual": 1.9 },
+				
+	{ "label": "Q1&nbsp;16", "high": 3.77, "low": 3.11, "actual": 3.28 },
+				
+	{ "label": "Q4&nbsp;15", "high": 2.02, "low": 1.75, "actual": 1.96 }
+];
+		
+Reuters.company.futureEstimates = [
+			
+	{ "label": "Q1&nbsp;17", "high": 4.23, "low": 3.28 },
+	{ "label": "Q2&nbsp;17", "high": 2.31, "low": 1.94 }
+];
+
+Reuters.company.showEstimatesVsActuals();
+         </script>
+         <div class="moreLink">
+          <a href="/finance/stocks/financialHighlights?symbol=AAPL.O">
+           » More Financials
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="module">
+        <div class="moduleHeader">
+         <h3>
+          <a href="/finance/stocks/companyNews?symbol=AAPL.O">
+           Apple Inc News
+          </a>
+         </h3>
+        </div>
+        <div class="moduleBody">
+         <ul>
+          <li>
+           <a href="/article/us-usa-markets-apple-idUSKBN15B15J?type=companyNews">
+            Apple shares back in vogue as Wall Street bets on iPhone surge
+           </a>
+          </li>
+          <li>
+           <a href="/article/usa-markets-apple-idUSL1N1FE57O?type=companyNews">
+            REFILE-Apple shares back in vogue as Wall Street bets on iPhone surge
+           </a>
+          </li>
+          <li>
+           <a href="/article/us-apple-amazon-analysis-idUSKBN15B1AG?type=companyNews">
+            Apple strategy in 'smart home' race threatened by Amazon
+           </a>
+           <span class="video_icon">
+            |
+            <a href="/news/video?videoId=371007321&amp;newsChannel=companyNews">
+             <img alt="Video" border="0" height="11px" src="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" width="43px"/>
+            </a>
+           </span>
+          </li>
+          <li>
+           <a href="/article/idUSFWN1FH0OB?type=companyNews">
+            BRIEF-Artificial Intelligence nonprofit Partnership on AI says Apple has joined as founding member
+           </a>
+          </li>
+          <li>
+           <a href="/article/us-apple-qualcomm-idUSKBN15A32W?type=companyNews">
+            As regulators waver, Apple takes on Qualcomm in courts
+           </a>
+          </li>
+         </ul>
+         <div class="moreLink">
+          <a href="/finance/stocks/companyNews?symbol=AAPL.O">
+           » More AAPL.O News
+          </a>
+         </div>
+        </div>
+       </div>
+       <script>
+        var topStoryGrid = $('#topStory').find('.grid8');
+	if (topStoryGrid.hasClass('grid8')) {
+	    if ($('#latestHeadlines')) {
+	        $('#latestHeadlines').remove();
+	    }
+	};
+       </script>
+       <div id="div_gpt_mpulow">
+        <script>
+         gatherAd('div_gpt_mpulow', [[300, 250],[300,600],[300,1050]], TR3.extractDartZone(), 'yes', 'mpulow');
+        </script>
+       </div>
+      </div>
+      <div class="column3">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="section">
+    <div class="sectionContent">
+     <div class="sectionColumns">
+      <div class="gridPanel grid12">
+       <div id="footerTopicTarget">
+       </div>
+       <div id="footerTopics">
+        <div class="sectionRelatedTopics">
+         <ul>
+          <h3>
+           Related Topics:
+          </h3>
+          <li>
+           <a href="/finance/stocks">
+            Stocks
+           </a>
+          </li>
+          <li>
+           <a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">
+            Stock Screener
+           </a>
+          </li>
+          <li>
+           <a href="/finance/global-market-data">
+            Market Data
+           </a>
+          </li>
+          <li>
+           <a href="/sectors/technology">
+            Technology
+           </a>
+          </li>
+          <li>
+           <a href="/sectors/industries/overview?industryCode=169">
+            Computer Hardware
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer>
+   <section class="footer">
+    <div class="group wrap" id="">
+     <script>
+      callAds();
+     </script>
+     <div id="section-follow-buttons">
+      <span class="footer-follow">
+       Follow Reuters:
+      </span>
+      <ul>
+       <li id="foot-twitter">
+        <a href="http://www.twitter.com/reuters" target="_blank">
+         <span class="follow-button follow-twitter">
+          Follow Us On Twitter
+         </span>
+        </a>
+       </li>
+       <li id="foot-facebook">
+        <a href="http://www.facebook.com/Reuters" target="_blank">
+         <span class="follow-button follow-facebook">
+          Follow Us On Facebook
+         </span>
+        </a>
+       </li>
+       <li id="foot-rssfeed">
+        <a href="http://www.reuters.com/tools/rss" target="_blank">
+         <span class="follow-button follow-rss">
+          Follow Us On RSS
+         </span>
+        </a>
+       </li>
+       <li id="foot-instagram">
+        <a href=" https://instagram.com/reuters/" target="_blank">
+         <span class="follow-button follow-instagram">
+          Follow Us On Instagram
+         </span>
+        </a>
+       </li>
+       <li id="foot-youtube">
+        <a href="https://www.youtube.com/user/ReutersVideo" target="_blank">
+         <span class="follow-button follow-youtube">
+          Follow Us On YouTube
+         </span>
+        </a>
+       </li>
+       <li id="foot-linkedin">
+        <a href="https://www.linkedin.com/company/thomson-reuters_1400" target="_blank">
+         <span class="follow-button follow-linkedin">
+          Follow Us On LinkedIn
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="footer-more-links">
+      <span class="footer-more">
+       Subscribe:
+      </span>
+      <a href="http://www.reuters.com/tools/rss">
+       Feeds
+      </a>
+      |
+      <a href="http://newslink.reuters.com/join/subscribe">
+       Newsletters
+      </a>
+      |
+      <a href="/tools/podcasts">
+       Podcasts
+      </a>
+      |
+      <a href="/tools/mobile">
+       Apps
+      </a>
+     </div>
+    </div>
+   </section>
+   <section class="footer-body">
+    <div class="group wrap" id="">
+     <div class="footer-services-link">
+      <a href="http://agency.reuters.com" target="_blank">
+       Reuters News Agency
+      </a>
+      |
+      <a href="http://agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html" target="_blank">
+       Brand Attribution Guidelines
+      </a>
+      <!--  | <a href="http://thomsonreuters.com/site/delivery-options/" target="_blank">Delivery Options</a> -->
+     </div>
+     <div class="disclaimer">
+      <div class="footer-summary">
+       <p>
+        Reuters is the news and media division of
+        <a href="http://thomsonreuters.com/" target="_blank">
+         Thomson Reuters
+        </a>
+        . Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Learn more about Thomson Reuters products:
+       </p>
+      </div>
+     </div>
+     <div class="product-container">
+      <a href="http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html" target="_blank">
+       <div class="product">
+        <div class="prod-title">
+         Eikon
+        </div>
+        <div class="prod-content">
+         Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface
+        </div>
+       </div>
+      </a>
+      <a href="http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-enterprise-data-management.html" target="_blank">
+       <div class="product">
+        <div class="prod-title">
+         Elektron
+        </div>
+        <div class="prod-content">
+         Everything you need to empower your workflow and enhance your enterprise data management
+        </div>
+       </div>
+      </a>
+      <a href="https://risk.thomsonreuters.com/products/world-check" target="_blank">
+       <div class="product">
+        <div class="prod-title">
+         World-Check
+        </div>
+        <div class="prod-content">
+         Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks
+        </div>
+       </div>
+      </a>
+      <a href="http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/" target="_blank">
+       <div class="product">
+        <div class="prod-title">
+         Westlaw
+        </div>
+        <div class="prod-content">
+         Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology
+        </div>
+       </div>
+      </a>
+      <a href="https://tax.thomsonreuters.com/products/brands/onesource/" target="_blank">
+       <div class="product">
+        <div class="prod-title">
+         ONESOURCE
+        </div>
+        <div class="prod-content">
+         The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs
+        </div>
+       </div>
+      </a>
+      <a href="https://tax.thomsonreuters.com/products/brands/checkpoint/" target="_blank">
+       <div class="product prod-last">
+        <div class="prod-title">
+         CHECKPOINT
+        </div>
+        <div class="prod-content">
+         The industry leader for online information for tax, accounting and finance professionals
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="linebreak">
+     </div>
+     <div class="footer-policy-links">
+      <p>
+       All quotes delayed a minimum of 15 minutes.
+       <a href="/info/disclaimer">
+        See here for a complete list
+       </a>
+       of exchanges and delays.
+      </p>
+      <div class="footer-policies">
+       <ul>
+        <li class="h-links">
+         <div class="reuters-copyright">
+          <script type="text/javascript">
+           var year = new Date();document.write('<a href="http://thomsonreuters.com/copyright/">&copy;  ' + year.getFullYear() + ' Reuters. All Rights Reserved.</a>');
+          </script>
+         </div>
+        </li>
+        <li class="h-links">
+         <a href="http://reuters.zendesk.com/" target="_blank">
+          Site Feedback
+         </a>
+        </li>
+        <li class="h-links">
+         <a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">
+          Corrections
+         </a>
+        </li>
+        <li class="h-links">
+         <a href="/advertising-guidelines">
+          Advertising Guidelines
+         </a>
+        </li>
+        <li class="h-links">
+         <a href="http://info.evidon.com/pub_info/285" target="_blank">
+          Cookies
+         </a>
+        </li>
+        <li class="h-links">
+         <a href="/terms-of-use">
+          Terms of Use
+         </a>
+        </li>
+        <li class="h-links h-links-last">
+         <a href="/privacy-policy">
+          Privacy Policy
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </section>
+  </footer>
+  <script src="http://s4.reutersmedia.net/resources_v2/js/core-header.js" type="text/javascript">
+  </script>
+  <script src="http://s3.reutersmedia.net/resources_v2/js/core-login.js" type="text/javascript">
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/core-tracking.js" type="text/javascript">
+  </script>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript">
+  </script>
+  <script language="javascript" src="http://www.reuters.com/reuters_gpt_bootstrap_footer.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   $(document).ready( function() {
+		var sclTracking = new rcom_scrollTracker("Markets");
+		if( inAppleMobileDevice() ) {document.addEventListener("scroll", sclTracking, false);} else {$(window).scroll( sclTracking );}
+	});
+  </script>
+  <section>
+   <div class="group" id="">
+    <script type="text/javascript">
+     var _sf_startpt = (new Date()).getTime();
+        var _sf_async_config = _sf_async_config || {};
+        
+        _sf_async_config.playerdomain = 'queso-cdn.prod.reuters.tv';
+        _sf_async_config.sections = 'Stocks'; 
+        _sf_async_config.autoDetect = false;
+        
+        _sf_async_config.authors = 'Reuters Editorial'; 
+        _sf_async_config.type = 'Markets'; 
+
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+   </div>
+  </section>
+ </body>
+</html>
+
