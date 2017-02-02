@@ -105,7 +105,7 @@
 105,Jeff Weiner,LinkedIn
 106,Marc Benioff,Salesforce
 107,Sundar Pichai,Google
-108,Tim Cook,Apple
+108,Timothy Cook,Apple
 109,Joseph R. Sivewright,Nestle Purina PetCare
 110,Jim Whitehurst,Red Hat
 111,David S. Taylor,Procter & Gamble
