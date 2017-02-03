@@ -88,7 +88,7 @@ def ceo(sym):
     a = []
     top = False
     name_low = name.lower().split(" ")
-    with open('ceo_list.txt', 'r', encoding='utf-8') as f:
+    with open('csv/ceo_list.txt', 'r', encoding='utf-8') as f:
         csvfile = csv.reader(f)
         for i in csvfile:
             a = " ".join(i).lower().replace(u'\xa0', u' ')
