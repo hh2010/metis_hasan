@@ -9,7 +9,7 @@ The directory structure is below:
   * The ones that involved creating a Jupyter notebook are saved here
 * [**Investigations**](https://github.com/hh2010/metis_hasan/tree/master/inv)
   * We were required to do three "investigation" presentations of our choosing
-  * My investigation on "PyQt" is wrapped into the [hunl](https://github.com/hh2010/hunl) repo
+  * My investigation on [PyQt](https://riverbankcomputing.com/software/pyqt/intro) is wrapped into the [hunl](https://github.com/hh2010/hunl) repo
   * The other investigations are saved here
 * [**Lecture**](https://github.com/hh2010/metis_hasan/tree/master/lecture)
   * We had lecture every day in class
